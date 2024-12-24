@@ -1,0 +1,1 @@
+/var/www/magento/lib/web/jquery/bootstrap/collapse.js
